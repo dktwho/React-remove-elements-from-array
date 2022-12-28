@@ -1,3 +1,8 @@
+# Содержание
+
+1. Реализация удаление элемента из массива по клику на абзац
+2. Реализация удаление элемента из массива по клику на кнопку
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
